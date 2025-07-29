@@ -29,7 +29,7 @@ This repository contains manual test cases for the **Registration Form** of the 
 
 If you want to see how the test cases look:
 
-![Test case preview](/Screenshot.jpg)
+![Test case preview](/Registration_test_case.png)
 
 ---
 
